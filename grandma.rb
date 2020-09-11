@@ -2,7 +2,7 @@
 def speak_to_grandma(x)
 
   if x == x.upcase
-    puts "NO, NOT SINCE 1938!""
+    puts "NO, NOT SINCE 1938!"
 
   elsif x == "I LOVE YOU GRANDMA!"
 
