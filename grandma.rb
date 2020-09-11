@@ -6,7 +6,7 @@ def speak_to_grandma(x)
 
   elsif x == "I LOVE YOU GRANDMA!"
 
-    puts 
+    puts
 
   else
 
